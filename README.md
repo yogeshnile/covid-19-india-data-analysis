@@ -15,10 +15,11 @@ below same example of data visulization
 <a href="https://imgur.com/dlGGnyG"><img src="https://i.imgur.com/dlGGnyG.png" title="source: imgur.com" /></a>
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Bug / Feature Request :man_technologist:
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/covid-19-india-data-analysis/issues/new) by including your search query and the expected result.
 
-Please make sure to update tests as appropriate.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/covid-19-india-data-analysis/issues/new). Please include sample queries and their corresponding results.
+
 
 ## Connect with me! 🌐
 Known on internet as **Yogesh Nile**
