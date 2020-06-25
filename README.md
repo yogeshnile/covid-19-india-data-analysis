@@ -1,11 +1,11 @@
 # covid-19-india-data-analysis :notebook:
 In this project are used till 8th april covid-19 data
 
-![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)
+[![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
 this is a india's COVID-19 data upto 8th April. Those data are include in state wise covid-19 cases in all over india and also include close cases and death cases in india
 
-## technology used in project :hotsprings:
+## Technology used in Project :hotsprings:
 
  - pandas
  - numpy
