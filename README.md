@@ -6,11 +6,9 @@ In this project are used till 8th april covid-19 data
 this is a india's COVID-19 data upto 8th April. Those data are include in state wise covid-19 cases in all over india and also include close cases and death cases in india
 
 ## Technology used in Project :hotsprings:
-<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="200">
- - pandas
- - numpy
- - matplotlib
- - plotly
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="200">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/plotly.png" width="200">
+
+
 
 ## ScreenShot :camera_flash:
 
